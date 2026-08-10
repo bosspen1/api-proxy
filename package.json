@@ -16,7 +16,7 @@
   "author": "wild",
   "license": "ISC",
   "devDependencies": {
-    "express": "4.17.3",
+    "express": "4.22.2",
     "http-proxy-middleware": "^2.0.10"
   },
   "dependencies": {}
